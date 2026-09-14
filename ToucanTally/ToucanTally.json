@@ -1,0 +1,10 @@
+{
+  "Author": "Astraea",
+  "Name": "Toucan Tally",
+  "InternalName": "ToucanTally",
+  "Punchline": "Toucan See scrolling combat text!.",
+  "Description": "Hides the game's flying text and pop-up text and shows your hits, heals and buffs beautifully in places you choose. Inspired by the World of Warcraft addon Parrot.\n\n/toucan opens the settings.",
+  "RepoUrl": "https://github.com/astraeaffxiv/ToucanTally",
+  "ApplicableVersion": "any",
+  "Tags": [ "combat", "flytext", "scrolling combat text", "damage", "healing", "ui", "hud" ]
+}
